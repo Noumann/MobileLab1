@@ -28,4 +28,4 @@ class Car extends Vehicle{
 }
 
 let c1=new Car(2010,"small",5,"VW");
-console.log("Model : "+c1.model);
+console.log("Model : "+c1.model); 
